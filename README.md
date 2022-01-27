@@ -4,10 +4,10 @@ As data grows is important to also know the best algorithm.
 Time complexity is a measure of the time required to run an algorithm as the input increases.
 
 
+## Big O Notation: Excution time and memory usage
 ## Scalability
 - Execution and memory usage as the input size increases. 
 
-## Big O Notation: Excution time and memory usage
 
 # Constant Time O(1)
 Same running time regardless of size in input. 
