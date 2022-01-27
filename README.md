@@ -9,8 +9,7 @@ Time complexity is a measure of the time required to run an algorithm as the inp
 
 ## Big O Notation: Excution time and memory usage
 
-- Constant Time O(1)
-------------
+# Constant Time O(1)
 Same running time regardless of size in input. 
 As input data increases the amount of time the algorithm take does not change. 
 
