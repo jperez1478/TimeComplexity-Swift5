@@ -31,7 +31,7 @@ As input data increases the amount of time the algorithm take does not change.
 
 
 --------
-# Linear Time Complexity 
+# Linear Time Complexity O(N)
 
 ```swift
   func checkFirst(names: [String]) {
@@ -42,3 +42,4 @@ As input data increases the amount of time the algorithm take does not change.
 ```
 - function checkfirst will print out the names in String array. As the input array increases in size
 - number of iterations that the for loop makes increases by the same amount 
+- As data increases the running time increase by the same amount 
