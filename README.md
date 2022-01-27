@@ -41,4 +41,6 @@ As input data increases the amount of time the algorithm take does not change.
 ```
 - function checkfirst will print out the names in String array. As the input array increases in size
 - number of iterations that the for loop makes increases by the same amount 
-- As data increases the running time increase by the same amount 
+
+
+Conclusion  Big O(N)  in linear time is something that can cause lower algorithms causing to miss constant that may be repaeated in O(2n+6) having two for lopps 
