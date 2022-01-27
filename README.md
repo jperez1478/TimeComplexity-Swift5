@@ -28,3 +28,17 @@ As input data increases the amount of time the algorithm take does not change.
 ```
  - The size of the  names array has no eefect on the running time of this function. 
  - weather the input has ten items or 10 million items , this function only checks the first element of the array 
+
+
+--------
+# Linear Time Complexity 
+
+```swift
+  func checkFirst(names: [String]) {
+     for name in names {
+      print(name)
+     }
+  }
+```
+- function checkfirst will print out the names in String array. As the input array increases in size
+- number of iterations that the for loop makes increases by the same amount 
