@@ -9,7 +9,13 @@ Time complexity is a measure of the time required to run an algorithm as the inp
 
 ## Big O Notation: Excution time and memory usage
 
-- Constant Time : same running time regardless of size in input. 
+- Constant Time O(1)
+------------
+Same running time regardless of size in input. 
+As input data increases the amount of time the algorithm take does not change. 
+
+
+
 
 ```swift
   func checkFirst(names: [String]) {
@@ -20,3 +26,5 @@ Time complexity is a measure of the time required to run an algorithm as the inp
      }
   }
 ```
+ - The size of the  names array has no eefect on the running time of this function. 
+ - weather the input has ten items or 10 million items , this function only checks the first element of the array 
